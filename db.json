@@ -1,0 +1,25 @@
+{
+  "list": [
+    {
+      "id": 0,
+      "title": "Ревевант",
+      "author": "Корнев Павел Николаевич",
+      "image": "https://img4.labirint.ru/rc/6adf09e972289cadac02b8ffd19aa8ae/236x364/books74/734750/cover.png?1580131564",
+      "price": 343
+    },
+    {
+      "id": 1,
+      "title": "Королева ничего",
+      "author": "Блэк Холли",
+      "image": "https://img3.labirint.ru/rc/35bcabea3bd0743b1c2c044f6f5d3b53/236x364/books74/734349/cover.jpg?1579767925",
+      "price": 389
+    },
+    {
+      "id": 2,
+      "title": "Я твой монстр",
+      "author": "Звездная Елена",
+      "image": "https://img3.labirint.ru/rc/8d319384b7c94b45dca4f98817e3a6bf/236x364/books74/732935/cover.jpg?1579076722",
+      "price": 420
+    }
+  ]
+}
